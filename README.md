@@ -1,3 +1,3 @@
 # kura
-test project
-Let's do this
+Start:-
+npm start
