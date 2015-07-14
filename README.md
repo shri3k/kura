@@ -4,3 +4,6 @@
 
 Start server:-
 npm start
+
+Slack:-
+http://kahaharu.slack.com
