@@ -6,7 +6,8 @@
     "eslint": "eslint ./",
     "jscs": "jscs ./",
     "lint": "npm run eslint && npm run jscs",
-    "start": "npm run lint && DEBUG=kura:server ./bin/www"
+    "test":"npm run lint",
+    "start": "npm run test && DEBUG=kura:server ./bin/www"
   },
   "dependencies": {
     "body-parser": "~1.13.1",
