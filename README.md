@@ -1,3 +1,3 @@
 # kura
-Start:-
+Start server:-
 npm start
