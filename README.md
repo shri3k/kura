@@ -18,5 +18,5 @@ Useful port:-
 - `3000` = app server
 - `8080` = rethinkdb admin ui
 
-Questions on slack:-  
+##Questions on slack:-  
 http://kuraharu.slack.com
