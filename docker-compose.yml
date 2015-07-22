@@ -1,0 +1,13 @@
+web:
+        build: .
+        ports:
+                - "3000:3000"
+        volumes:
+                - .:/home/
+        links:
+                - rethinkdb 
+rethinkdb:
+        image: rethinkdb 
+        ports:
+                - "8080:8080"
+
